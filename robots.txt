@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santos544.github.io/tiktok-blog/sitemap.xml
